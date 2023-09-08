@@ -83,6 +83,12 @@ Then, run the following command to start the app
     rails s
 ```
 
+Link to the commands below:
+
+```sh
+  [Click to view the frontend](https://github.com/abiola-arobieke/hello-react-front-end.git)
+```
+
 ## 👥 Author <a name="author"></a>
 
 👤 **Abiola Arobieke**
